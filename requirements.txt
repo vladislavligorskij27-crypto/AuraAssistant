@@ -1,0 +1,10 @@
+customtkinter
+requests
+Pillow
+keyboard
+pyttsx3
+SpeechRecognition
+pyaudio
+pystray
+duckduckgo-search
+tkinterdnd2
